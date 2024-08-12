@@ -1,0 +1,10 @@
+flashcards-project/node_modules
+flashcards-project/build
+
+
+
+
+server/config.env
+config.env
+server/dev-data
+node_modules
